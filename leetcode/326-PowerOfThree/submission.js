@@ -1,3 +1,8 @@
+// Question URL - https://leetcode.com/problems/power-of-three/description/
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
 export const isPowerOfThree = (n) => {
     // 1. Basic log method
     const power = Math.log10(n) / Math.log10(3)
