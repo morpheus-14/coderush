@@ -1,6 +1,10 @@
 # Result
 
 > Accepted
+>
+> **Runtime**: 2ms(100%)
+>
+> **Memory**: 66.11MB(25%)
 
 
 ![Result Image](result.png)

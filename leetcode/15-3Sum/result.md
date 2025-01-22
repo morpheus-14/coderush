@@ -1,6 +1,10 @@
 # Result
 
 > Accepted
+>
+> **Runtime**: 26ms(98.41%)
+>
+> **Memory**: 71.99MB(72.39%)
 
 ### Old Image
 ![Result Image](result_js_1.png)

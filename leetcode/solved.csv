@@ -1,0 +1,23 @@
+number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB),best Memory Percentile
+1,TwoSum,TRUE,FALSE,0,100,51.6,25.16
+13,RomanToInteger,TRUE,FALSE,16,9.97,56.09,25.9
+15,3Sum,TRUE,FALSE,26,98.41,71.99,72.39
+1760,MinimumLimitOfBallsInABag,TRUE,FALSE,38,61.9,60.88,38.75
+1871,JumpGameVII,TRUE,FALSE,22,68.09,58.47,76.6
+2,AddTwoNumbers,TRUE,FALSE,3,80.66,51.35,73.58
+21,MergeTwoSortedLists,TRUE,FALSE,0,100,51.78,62.91
+2116,CheckIfParenthesesStringCanBeValid,TRUE,FALSE,14,80.31,59.42,94.22
+2460,ApplyOperationsToAnArray,TRUE,FALSE,0,100,52.44,32.32
+26,RemoveDuplicatesFromSortedArray,TRUE,FALSE,0,100,51.7,92.58
+2683,NeighbouringBitwiseXOR,TRUE,FALSE,2,100,66.11,25
+3,LongestSubstringWithoutRepeatingCharacters,TRUE,FALSE,44,20.75,58.14,9.28
+326,PowerOfThree,TRUE,FALSE,158,5.16,58.83,73.02
+338,CountingBits,FALSE,TRUE,1,98.73,18.64,21.39
+345,ReverseVowelsOfString,TRUE,FALSE,5,89.59,54.46,74.19
+394,DecodeString,TRUE,FALSE,0,100,48.53,84.83
+476,NumberComplement,TRUE,FALSE,48,77.5,48.77,76.5
+53,MaximumSubarray,TRUE,FALSE,0,100,51.42,99.47
+650,2KeysKeyboard,TRUE,FALSE,49,95.45,50.16,86.36
+75,SortColors,TRUE,FALSE,0,100,42.29,53.96
+832,FlippingAnImage,TRUE,FALSE,0,100,51.8,74.71
+9,PalindromeNumber,TRUE,FALSE,3,99.59,57.1,97.42
