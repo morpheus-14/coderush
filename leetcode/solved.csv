@@ -8,6 +8,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 21,MergeTwoSortedLists,TRUE,FALSE,0,100,51.78,62.91
 2116,CheckIfParenthesesStringCanBeValid,TRUE,FALSE,14,80.31,59.42,94.22
 2460,ApplyOperationsToAnArray,TRUE,FALSE,0,100,52.44,32.32
+2559,CountVowelStringsInRanges,TRUE,FALSE,9,94.37,75.27,100
 26,RemoveDuplicatesFromSortedArray,TRUE,FALSE,0,100,51.7,92.58
 2683,NeighbouringBitwiseXOR,TRUE,FALSE,2,100,66.11,25
 3,LongestSubstringWithoutRepeatingCharacters,TRUE,FALSE,44,20.75,58.14,9.28
