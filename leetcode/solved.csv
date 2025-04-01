@@ -6,6 +6,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 1760,MinimumLimitOfBallsInABag,TRUE,FALSE,38,61.9,60.88,38.75
 1871,JumpGameVII,TRUE,FALSE,22,68.09,58.47,76.6
 2,AddTwoNumbers,TRUE,FALSE,3,80.66,51.35,73.58
+202,HappyNumber,FALSE,TRUE,0,100,54.9,52.47
 21,MergeTwoSortedLists,TRUE,FALSE,0,100,51.78,62.91
 2116,CheckIfParenthesesStringCanBeValid,TRUE,FALSE,14,80.31,59.42,94.22
 2337,MovePiecesToObtailAString,TRUE,FALSE,10,97.78,59.54,96.3
