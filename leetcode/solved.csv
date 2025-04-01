@@ -26,6 +26,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 53,MaximumSubarray,TRUE,FALSE,0,100,51.42,99.47
 617,MergeTwoBinaryTrees,FALSE,TRUE,3,52.49,17.86,98.75
 650,2KeysKeyboard,TRUE,FALSE,49,95.45,50.16,86.36
+661,ImageSmoother,FALSE,TRUE,87,94.95,18.9,16.61
 69,Sqrt(x),FALSE,TRUE,2173,5.01,17.75,51.18
 75,SortColors,TRUE,FALSE,0,100,42.29,53.96
 832,FlippingAnImage,TRUE,FALSE,0,100,51.8,74.71
