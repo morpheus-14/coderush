@@ -25,6 +25,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 476,NumberComplement,TRUE,FALSE,48,77.5,48.77,76.5
 5,LongestPalindromicSubstring,FALSE,TRUE,4607,13.91,17.9,60.9
 53,MaximumSubarray,TRUE,FALSE,0,100,51.42,99.47
+561,ArrayPartition,FALSE,TRUE,35,21.47,19.94,5.23
 617,MergeTwoBinaryTrees,FALSE,TRUE,3,52.49,17.86,98.75
 650,2KeysKeyboard,TRUE,FALSE,49,95.45,50.16,86.36
 661,ImageSmoother,FALSE,TRUE,87,94.95,18.9,16.61
