@@ -11,6 +11,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 202,HappyNumber,FALSE,TRUE,0,100,54.9,52.47
 21,MergeTwoSortedLists,TRUE,FALSE,0,100,51.78,62.91
 2116,CheckIfParenthesesStringCanBeValid,TRUE,FALSE,14,80.31,59.42,94.22
+2226,MaximumCandiesAllocatedToKChildren,FALSE,TRUE,33,88.32,30.92,8.71
 2337,MovePiecesToObtailAString,TRUE,FALSE,10,97.78,59.54,96.3
 2460,ApplyOperationsToAnArray,TRUE,FALSE,0,100,52.44,32.32
 2559,CountVowelStringsInRanges,TRUE,FALSE,9,94.37,75.27,100
