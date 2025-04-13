@@ -31,6 +31,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 45,JumpGameII,FALSE,TRUE,4,89.98,18.5,75.02
 476,NumberComplement,TRUE,FALSE,48,77.5,48.77,76.5
 5,LongestPalindromicSubstring,FALSE,TRUE,4607,13.91,17.9,60.9
+51,NQueens,FALSE,TRUE,3,99.7,18.16,82.28
 53,MaximumSubarray,TRUE,FALSE,0,100,51.42,99.47
 55,JumpGame,FALSE,TRUE,38,40.67,18.66,42.49
 561,ArrayPartition,FALSE,TRUE,35,21.47,19.94,5.23
