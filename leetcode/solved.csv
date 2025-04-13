@@ -39,6 +39,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 65,ValidNumber,FALSE,TRUE,0,100,17.81,39.81
 650,2KeysKeyboard,TRUE,FALSE,49,95.45,50.16,86.36
 661,ImageSmoother,FALSE,TRUE,87,94.95,18.9,16.61
+664,StrangePrinter,TRUE,FALSE,23,100,59.25,40
 67,AddBinary,FALSE,TRUE,5,9.1,17.82,51.89
 680,ValidPalindromeII,FALSE,TRUE,69,19.98,17.8,91.69
 69,Sqrt(x),FALSE,TRUE,2173,5.01,17.75,51.18
