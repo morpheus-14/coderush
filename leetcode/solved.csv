@@ -25,6 +25,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 26,RemoveDuplicatesFromSortedArray,TRUE,FALSE,0,100,51.7,92.58
 2614,PrimeInDiagonal,FALSE,TRUE,0,64.14,29.67,73.99
 2683,NeighbouringBitwiseXOR,TRUE,FALSE,2,100,66.11,25
+2864,MaximumOddBinaryNumber,FALSE,TRUE,0,100,17.66,88.16
 2966,DivideArrayIntoArraysWithMaxDifference,FALSE,TRUE,82,58.18,33.29,74.42
 3,LongestSubstringWithoutRepeatingCharacters,TRUE,FALSE,44,20.75,58.14,9.28
 3152,SpecialArrayII,TRUE,FALSE,46,18.75,90.94,54.69
