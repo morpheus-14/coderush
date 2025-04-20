@@ -3,6 +3,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 13,RomanToInteger,TRUE,FALSE,16,9.97,56.09,25.9
 1323,Maximum69Number,FALSE,TRUE,0,100,17.86,32.38
 14,LongestCommonPrefix,FALSE,TRUE,0,100,17.7,95.94
+140,WordBreakII,FALSE,TRUE,0,100,17.89,41.73
 15,3Sum,TRUE,FALSE,26,98.41,71.99,72.39
 1710,MaximumUnitsOnATruck,FALSE,TRUE,3,91.89,18.34,11.36
 172,FactoralTrailingZeroes,FALSE,TRUE,0,100,17.75,55.11
