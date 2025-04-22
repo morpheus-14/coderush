@@ -29,6 +29,7 @@ number,name,javascript,python,best Time (ms),best Time Percentile,best Memory(MB
 2864,MaximumOddBinaryNumber,FALSE,TRUE,0,100,17.66,88.16
 2966,DivideArrayIntoArraysWithMaxDifference,FALSE,TRUE,82,58.18,33.29,74.42
 3,LongestSubstringWithoutRepeatingCharacters,TRUE,FALSE,44,20.75,58.14,9.28
+301,RemoveInvalidParentheses,TRUE,FALSE,155,39.28,62.11,19.29
 3152,SpecialArrayII,TRUE,FALSE,46,18.75,90.94,54.69
 326,PowerOfThree,TRUE,FALSE,158,5.16,58.83,73.02
 3304,FindTheKthCharacterInStringGameI,FALSE,TRUE,0,100,17.86,35.12
